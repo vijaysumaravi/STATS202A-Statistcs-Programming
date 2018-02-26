@@ -1,0 +1,10 @@
+Package: StatsProgramming
+Type: Package
+Title: Statistical Programming Package
+Version: 1.0
+Date: 2017-11-10
+Author: VIJAY RAVI
+Maintainer: VIJAY RAVI  <vijaysumaravi@ucla.edu>
+Description: This package computes Linear Regression, Logistic Regression and Principal Component Analysis (PCA) based on QR decomposition.
+License: What license is it under?
+RoxygenNote: 6.0.1.9000
